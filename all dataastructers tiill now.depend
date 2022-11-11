@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1668175627 source:a:\revision\all dataastructers tiill now\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1668190006 a:\revision\all dataastructers tiill now\stack.h
+
+1668201485 source:a:\revision\all dataastructers tiill now\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+	"queue.h"
+	"list.h"
+	"doubly.h"
+
+1668179286 source:a:\revision\all dataastructers tiill now\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1668190003 a:\revision\all dataastructers tiill now\queue.h
+
+1668187858 source:a:\revision\all dataastructers tiill now\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1668190007 a:\revision\all dataastructers tiill now\list.h
+
+1668203045 source:a:\revision\all dataastructers tiill now\doubly.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"doubly.h"
+
+1668200004 a:\revision\all dataastructers tiill now\doubly.h
+
